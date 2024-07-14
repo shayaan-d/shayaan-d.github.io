@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Site | Shayaan D"
-AuthUserFile /Users/shayaan/Desktop/website/shayaan-d.github.io/.htpasswd
-require valid-user
